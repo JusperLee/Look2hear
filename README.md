@@ -1,3 +1,3 @@
-# Look2hear
-
-comming soon.
+![Look2hear Logo](./resources/logo.png)
+---
+Toolkit will be available soon.
